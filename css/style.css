@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url("./img/store.png");
+    background-image: url("C:/DIO/clone_Instagram/img/store.png");
 }
 
 .app-download:nth-child(2) {
-    background-image: url("./img/play.png");
+    background-image: url('C:/DIO/clone_Instagram/img/play.png');
 }
 
 @media (max-width: 1024px) {
